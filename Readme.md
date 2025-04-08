@@ -6,7 +6,7 @@ This is a simple challenge to be used as part of an interview process for .NET b
 
 ## Rules
 1. **Keep the initial commits** free from your own changes, so we can use git log and git show to see what you did.
-2. You are free to use any tool you like when developing. Important note: as we are targeting .NET 7 it's not possible to build the solution in VS 2019. Potential alternatives include **VS 2022** and **VS Code**.
+2. You are free to use any tool you like when developing. Important note: as we are targeting .NET 8 it's not possible to build the solution in VS 2019. Potential alternatives include **VS 2022** and **VS Code**.
 3. You can use as much time as you like, but the intention is not to have you spend more than a couple of hours.
 4. You are free to pull in any framework or libraries in order to solve the challenge, but be prepared to reason about your choices.
 5. Use the patterns and practices you think are best on any part of the challenge, again be prepared to reason about your choices.
